@@ -1,0 +1,58 @@
+body {
+  font-family: 'Fira Sans Condensed', sans-serif;
+  font-weight: 400;
+  font-size: 100%;
+  text-align: center;
+  line-height: 2;
+  background-color: rgb(63, 79, 94);
+  color: rgb(214, 213, 218);
+}
+
+h1 {
+  font-weight: 500;
+  font-size: 3.5em;
+  line-height: 1.6;
+}
+
+main {
+  font-size: 2em;
+}
+
+#tempUnit {
+  cursor: pointer;
+  color: rgb(134, 175, 73);
+}
+
+#weather {
+  font-weight: 500;
+}
+
+footer {
+  font-weight: 400;
+  font-size: 0.9em;
+}
+
+#icons i{
+  font-size: 2em;
+  animation: icons 5s ease 0s infinite;
+  color: rgb(242, 220, 222);
+}
+
+#icons:hover {
+  transform: scale(1.1);
+}
+
+.hide {
+  display: none;
+}
+
+.show {
+  display: block;
+}
+
+/* Animate code for icons */
+@keyframes icons {
+    0% {text-shadow: 0 0 0px rgb(242, 220, 222);}
+    50% {text-shadow: 0 0 10px rgb(242, 220, 222);}
+    100% {text-shadow: 0 0 0px rgb(242, 220, 222);}
+}
