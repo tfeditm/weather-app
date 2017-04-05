@@ -10,4 +10,4 @@ FreeCodeCamp project. The information is from cloud :-)
 
 # The Site URL
 
-[https://tfeditm.github.io/weather-app/](https://tfeditm.github.io/weather-app/)
+[http://tfeditm.github.io/weather-app/](http://tfeditm.github.io/weather-app/)
