@@ -1,6 +1,6 @@
 # Weather App
 
-FreeCodeCamp project. The information is from cloud :-)
+FreeCodeCamp project. The information is from the cloud :-)
 
 # Important Acces Limitation!
 
@@ -13,6 +13,10 @@ FreeCodeCamp project. The information is from cloud :-)
 * [Google Fonts](https://fonts.google.com/) - High-quality fonts to use on your web site
 * [Weather Icons](https://erikflowers.github.io/weather-icons/) - 222 Weather Themed Icons and CSS
 * [OpenWeatherMap](https://openweathermap.org/) - Current weather and forecasts in your city
+* HTML
+* CSS
+* JavaScript
+* JQuery
 
 # The Site URL
 
