@@ -1,5 +1,18 @@
-/*IMPORTANT: This code not works on https only works on http because of the free accounts of Openweathermap.
-ACCES LIMITATION: "Do not send requests more than 1 time per 10 MINUTS from one device/one API key." "If account exceeds the limits, then a notification about limits exceeding is sent. If it repeats again, then the account is blocked for an hour. Therefore, the lock period is increased by one hour until 4 hours block sets. When blocking repeats the fifth time, then the lock period lasts 24 hours. This rule is cycled. Please be carefull with the number of API calls you complete." (https://openweathermap.org/appid)*/
+//IMPORTANT:
+//This code not works on https only works on http 
+//because of the free accounts of Openweathermap.
+//
+//ACCES LIMITATION:
+//"Do not send requests more than 1 time per 10 MINUTS 
+//from one device/one API key." 
+//"If account exceeds the limits, then a notification 
+//about limits exceeding is sent. If it repeats again, 
+//then the account is blocked for an hour. Therefore, 
+//the lock period is increased by one hour until 4 hours 
+//block sets. When blocking repeats the fifth time, 
+//then the lock period lasts 24 hours. This rule is cycled. 
+//Please be carefull with the number of API calls you complete."
+//(https://openweathermap.org/appid)
 
 function weatherApp() {
 
